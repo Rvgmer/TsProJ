@@ -1,0 +1,2 @@
+# TsProJ
+for learing ts
