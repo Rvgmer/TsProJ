@@ -16,7 +16,7 @@
 
     //想要获得a的平方和
 
-    //方法一
+    //方法一        
     let sum = 0
     b.forEach( v => sum+= v )
     console.log(sum)
